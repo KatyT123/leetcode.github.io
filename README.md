@@ -1,3 +1,9 @@
+---
+layout: default
+title: README
+---
+
+
 # Jira Server Integration Action
 
 ## Action description
